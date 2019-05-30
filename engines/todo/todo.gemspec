@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Todo::VERSION
   spec.authors     = ["Anna"]
   spec.email       = ["anna.bodnarchuk@devrecords.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Todo."
-  spec.description = "TODO: Description of Todo."
+  spec.homepage    = "http://localhost:3000/"
+  spec.summary     = "Summary of Todo."
+  spec.description = "Description of Todo."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
