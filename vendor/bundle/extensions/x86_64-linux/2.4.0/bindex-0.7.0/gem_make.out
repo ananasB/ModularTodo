@@ -1,0 +1,15 @@
+current directory: /home/victor/ModularTodo/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/usr/share/rvm/rubies/ruby-2.4.3/bin/ruby -r ./siteconf20190530-20786-3mtlvq.rb extconf.rb
+creating Makefile
+
+current directory: /home/victor/ModularTodo/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/victor/ModularTodo/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.so
+
+current directory: /home/victor/ModularTodo/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20190530-20786-1bw4dhq/skiptrace
